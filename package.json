@@ -1,6 +1,6 @@
 {
   "author": "PayPal <DL-PP-NODEJS-SDK@paypal.com> (https://developer.paypal.com/)",
-  "name": "paypal-rest-sdk",
+  "name": "paypal-rest-sdk-dc",
   "description": "SDK for PayPal REST APIs",
   "version": "1.8.1",
   "homepage": "https://github.com/paypal/PayPal-node-SDK",
